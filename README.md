@@ -11,3 +11,8 @@ the llava modle used is available on https://huggingface.co/
 YouLiXiya/tinyllava-v1.0-1.1b-hf
 
 sujitvasanth/YouLiXiya-tinyllava-v1.0-1.1b-hf
+
+There is also a version of that runs moondream1 model
+
+vikhyatk/moondream1
+sujitvasanth/vikhyatk-moondream1.1old
